@@ -1,8 +1,8 @@
-# TypeDetective
+# TPD Model
 
 ## Overview
 
-TypeDetective is an interpretable personality detection model on social media driven by Type Dynamics Theory. The framework of TypeDetective is depicted in Figure 1, illustrated using an example of the ENFP personality.
+TypeDetective is an interpretable personality detection model on social media driven by Type Dynamics Theory. The framework of TPD is depicted in Figure 1, illustrated using an example of the ENFJ personality.
 <div align=center>
     <img src="framework.png" width="450px">
 </div>
